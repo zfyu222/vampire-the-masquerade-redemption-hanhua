@@ -32,4 +32,6 @@ Steam 游戏文件、Crimson 原始 ZIP、全文英文导出、运行状态与�
 
 ## 发布
 
+原版游戏的独立体验优化补丁已退役。宽屏适配由 Crimson Edition 提供。
+
 玩家安装说明与更新日志见 [GitHub Releases](https://github.com/zfyu222/vampire-the-masquerade-redemption-hanhua/releases/)。
