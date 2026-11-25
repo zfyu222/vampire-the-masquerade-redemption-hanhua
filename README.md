@@ -23,7 +23,7 @@ Steam商店: https://store.steampowered.com/app/559680/
 
 1. 先安装 VTMR Crimson Edition 1.0 标准 16:9 版。 下载 Mod 原包并解压到游戏目录，运行随包的 JSGME，启用「VTMR Crimson Edition」主模组。
    Nexus Mods 原包下载：https://www.nexusmods.com/vampireredemption/mods/12?tab=files  
-   本项目 GitHub 也提供模组下载入口：https://github.com/zfyu222/vampire-the-masquerade-redemption-hanhua#安装汉化  
+   本项目提供下载入口。  
    如已从网盘取得同一版本的 Crimson 原包，可直接用该原包安装。
 2. 将汉化补丁解压到 Vampire.exe 所在目录，双击「安装汉化.cmd」，安装完成后从 Steam 启动。
 
