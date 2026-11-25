@@ -1,0 +1,20 @@
+《吸血鬼：避世血族－救赎》体验优化补丁 v1.0
+Steam 商店 https://store.steampowered.com/app/559680/
+
+适用于 Windows 上的 Steam 版《Vampire: The Masquerade – Redemption》。
+补丁修复默认全屏启动时的显示兼容问题，以及高 DPI 或 4K 屏上主菜单被放大、右侧和底部被裁切的问题。无边框全屏保留游戏画面比例，宽屏两侧会留黑边。可独立用于英文原版，也可与简体中文补丁同时使用。
+
+安装
+1. 退出游戏，把 ZIP 的全部内容解压到 Vampire.exe 所在的 Steam 游戏目录。
+2. 双击「安装体验优化.cmd」。看到安装成功后，若之前在 Steam 启动选项填过 -window，请移除该参数。
+3. 从 Steam 正常启动游戏。
+
+卸载
+退出游戏后，在游戏目录双击「卸载体验优化.cmd」。
+
+第三方组件
+本游戏专用补丁使用 Dege 的 dgVoodoo2 2.87.6，附带原版 x86 DDraw.dll 和 D3DImm.dll。
+官方来源 https://github.com/dege-diosg/dgVoodoo2/releases/tag/2.87.6
+
+更新记录
+v1.0 首次发布。

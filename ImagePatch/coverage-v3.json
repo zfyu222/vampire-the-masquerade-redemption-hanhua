@@ -1,0 +1,2990 @@
+{
+  "mapping_sha256": "334519ba2092677578424565ebf506dac1e6df6a1a88c404b7e131746149aebc",
+  "verified_manifest_sha256": "caf5ac72f396fa791e07500250a32650c72bb41ac2eaa58fb059b0e4f8c8f5f3",
+  "counts": {
+    "original_unresolved_region": 176,
+    "original_outside_verified_subset": 226,
+    "installed": 5,
+    "original_cleanup_residual_or_art_damage": 18
+  },
+  "images": [
+    {
+      "image_id": "00943503ec98dc27e89e6c62d60bbd328d6f37078f6a8e9034d6dda6aaead40c",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/triwall_LG.tga"
+      ]
+    },
+    {
+      "image_id": "00fad4b7a8c0bb8cfbef5b804e7233300cadc59df4e61ba8dd5793c83ad9073a",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/London/Tenabrae_sign_L.tga"
+      ]
+    },
+    {
+      "image_id": "0278a43e4e9a68b439cd70e4e7a70b819f5f3c0b8ad34e5c76202c6811a83052",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/EscapeMenuMP03.tga"
+      ]
+    },
+    {
+      "image_id": "02e7972d1389bb2e1db966cd8ee2ffa38a2d16fbb0626eb95b6460f95f2cbfc5",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplayAdv03.tga"
+      ]
+    },
+    {
+      "image_id": "038baea3ae4a0ffeb40a11e1ca6ea7d1f1dcd0b35d4ac151b734af608fa8e289",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsSound08.tga"
+      ]
+    },
+    {
+      "image_id": "040ccd428ec896258bd0a56d2c7d0d60a4f18d8d89a066bd472b1152776cc02f",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/London/Magdelena_L.tga"
+      ]
+    },
+    {
+      "image_id": "046fdb9a59e6132780509c1b8c05ee69195eb07cea01e1cabda8d3e92eec0980",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatCreateGameButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "05003cb530a4a10d05d3b0389bac31b88d4c1527a7eb880c0f53194a42cef037",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WLchangePWButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "05483175107945df431f623c80fac44e05acbafc6eb7267b1c3553910e8314e9",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/ammoRevolver.tga"
+      ]
+    },
+    {
+      "image_id": "05a2a3fd88652c7e9e6202012c519bcb6b76294aabefacd4f6cad3e7ed0e7928",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emQuitOver.tga"
+      ]
+    },
+    {
+      "image_id": "06f295ecf9e996220ef49065c23b2130a00bb6d09612a23085a04b7a7579eaa3",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTnmPaintedSign_NY.tga"
+      ]
+    },
+    {
+      "image_id": "08031d5df218b127102a149ab4e73b2c178037be96ce20e0694b61b5ecadae01",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsControl08.tga"
+      ]
+    },
+    {
+      "image_id": "090f2f0838599c32b29aead4e661d8349869bf749848eec2e1809ea2564a1433",
+      "status": "installed",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/dbCancelButton.tga"
+      ]
+    },
+    {
+      "image_id": "0b4845585735a4634fefc1567c11857c079d85e85f061ecf698d107a7865e2e2",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emmpOptionsOver.tga"
+      ]
+    },
+    {
+      "image_id": "0b698c722cc11b532664ee4d5dc19af961fd72c46ac4ee798583d4235494903f",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/opsSoundApplyButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "0bc60ad73dae88c188ae2f73462ddd7e2af1aa8ceda969db6faf75c60148baca",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/loadMenu01.tga"
+      ]
+    },
+    {
+      "image_id": "0d3c622a14063d30d137ffc1f0bfedcd9f353db057d0baad2c851c6dd36b1340",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/door2_NY.tga"
+      ]
+    },
+    {
+      "image_id": "0e14c2b738e3b6460712512fa7e25fe4224f507df8943775c2983b7e0166d083",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTclockface_NY.tga"
+      ]
+    },
+    {
+      "image_id": "0e1c3a9ea4b9c0b92c157a88573485244c9dd870bd2379850a27d3986b8cda97",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/CharacterPane03MD.tga"
+      ]
+    },
+    {
+      "image_id": "0f5639b3c859eef48db1dee4a7580949c888c62f6163c407134479e1c2eb607c",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/BuySellPane04.tga"
+      ]
+    },
+    {
+      "image_id": "1124726300c807352b095a42d881387606cbed6d0df8c9a51effdcf60694f633",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/CharacterSelectMP_08.tga"
+      ]
+    },
+    {
+      "image_id": "116db5db12699ba748a9055fa10144334535bb89df6bbe8946c14642404a03a3",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/DCLgrafittiVE.tga"
+      ]
+    },
+    {
+      "image_id": "12ca40d91e7b9d9efdc259e27bebfb4bc6fdd868560c9cf467c88a129e3a47d2",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsSoundApplyButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "12ffbd3f2d12178b37abe6d62319ac0c428b73b68f577e54d9158a884a19dfed",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/Prague/TCchart3_p.tga"
+      ]
+    },
+    {
+      "image_id": "14101459469e18870fbd5c06eb3f1d1317649a902ee71ccab07db3428415385a",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/opsDisplayAdvOpsButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "144c86d8744917bd1604b363d80150349ca3f49a16053067561ca1da9ae919ef",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpSelectLan.tga"
+      ]
+    },
+    {
+      "image_id": "149ceefacd7ab5c90cb779f4e637f963d0dc05ab31500847c64db2ccbfddf890",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emSaveDep.tga"
+      ]
+    },
+    {
+      "image_id": "156f0c0fe94ac0a6b4a04eef6eb88e0db4d60a4364881790fe53cc17be7b3ea5",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/London/SLrug1_2_L.tga"
+      ]
+    },
+    {
+      "image_id": "166576e0c43f5147b24c46d6f13e24c39c93d8582a614aa4fe279e528d935664",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/Vienna/ORherald1_2_v.tga"
+      ]
+    },
+    {
+      "image_id": "172a0fba3119d6c4e8235ca26ca745c3163bbf0e6712ff13645a7e29e4099e1c",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/opsDisplayAdvOpsButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "17f1e94333704536a578d4f38d7b554f599e311dc3d1a9fa39b68911298787ca",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/MainMenu02.tga"
+      ]
+    },
+    {
+      "image_id": "18ee0fa7842d07f9ebdc828b88e146de009699bf8a97112d15f60bdb01a62965",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsign5_NY.tga"
+      ]
+    },
+    {
+      "image_id": "1949e3744059d99d5d66f209a840b1c26929e4396b3a8e18fff55eeea7831c4c",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcgLoadSavedButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "1988b317e5103597398633c0187e192cd7f0d3cd028526a96dd7b44f5cf4ea27",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpPlayerCreate_07.tga"
+      ]
+    },
+    {
+      "image_id": "199567bdeb935c5cb68d47133221e1a6fdd85b2403744b188a9b1f0d4bf836bd",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpSelectInternet.tga"
+      ]
+    },
+    {
+      "image_id": "1a3c3f608bfa847752ed7c22799580f2f0f5a337158003c0288a93dcabfcd0b2",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/EscapeMenu03.tga"
+      ]
+    },
+    {
+      "image_id": "1b1111b3ae8d79d4145440fbfbcfcbda781f08e12b1c8166fda52cfa44b28412",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsControl05.tga"
+      ]
+    },
+    {
+      "image_id": "1b2bcd02ab6eba049719eb797b57a2506885dae829bc088f18da9872df41ce79",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/pipes4.tga"
+      ]
+    },
+    {
+      "image_id": "1bd308c138eded69cfd83b8c80e30ed385f3b2d0cd6cb1e3bffd144e5c14c69c",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTBarclayFront1_1_NY.tga"
+      ]
+    },
+    {
+      "image_id": "1c13b6847d987c22d9444d3319bb5ef489661373d4a8bd96e723d76bb95fe63b",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/AmmoBox2.tga"
+      ]
+    },
+    {
+      "image_id": "1c52f4a5f2dbb750d4dd4df2488b6b825c5d3d9edc5844e670f5395c5676afdf",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsign7_NY.tga"
+      ]
+    },
+    {
+      "image_id": "1c74eff59c272b2f770d18ad8e4f9dd01f84d88698818694b38226b0abaa93d6",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsSoundButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "1c8bd2178a11a2c5a608f2e393670ad74ce2bbbe8213749935a7ce6b915bd477",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatJoinGameButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "1dcd91027abe612e2a3d617b760ddf0da3de1f15e7c7d8e79a5a2ed36c3c2f2e",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/GHNeonCredit2_NY.tga"
+      ]
+    },
+    {
+      "image_id": "1e6f8b16d83127b515adba2a47a84f124c33a1db27e8f9f3c16db395ed64f072",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsign1_5_NY.tga"
+      ]
+    },
+    {
+      "image_id": "1f49b380e1118c4366c269415f82e9e799f5a3bd07a5770ff8a6d84af82e1947",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emOptionsOver.tga"
+      ]
+    },
+    {
+      "image_id": "1f61974fc9046efb8a6956b85cf2619c07d61eb98f903fd98a70575bd46fd0f9",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/csOKdep.tga"
+      ]
+    },
+    {
+      "image_id": "1f967599e31a58c886788abc468292383ba241488a05145192319a08933a4747",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/activisionLinkOver.tga"
+      ]
+    },
+    {
+      "image_id": "205148cf29c9d5fa98c80601efe1c09022637fbfffca37c20e87549062a6115c",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/SWswitches1_2_NY.tga"
+      ]
+    },
+    {
+      "image_id": "2051930d0388bc8f11d563a99fe9b7a9afe46ad06ffa2a3839f766e65a48f901",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/pauseMenu01.tga"
+      ]
+    },
+    {
+      "image_id": "21883f86df43978c42fd7644de28ec4c861b7ad25e47976bfaa21dd85d56ce6f",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/pc2.tga"
+      ]
+    },
+    {
+      "image_id": "229aa239e7e9d32e870914e392b895d35d2d81d1ac0bb1250c83605b17f5f1f7",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapPragueNQ01.tga"
+      ]
+    },
+    {
+      "image_id": "232ec3c112edf2a9dac929bfc8e9a81a837495a0b6449391002876c97e4eb3d1",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapNYCmidtown01.tga"
+      ]
+    },
+    {
+      "image_id": "25119e0a38eeea8b3558d9e5c1db8aabaee7f00d339727476c0651ce5c4b043b",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emSaveOver.tga"
+      ]
+    },
+    {
+      "image_id": "25160327453b65ebdca3b7310e9cbd95a84411714fa5d87c1451191dc5187d17",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmQuitOver.tga"
+      ]
+    },
+    {
+      "image_id": "25bee8af6d89d0758d62fdaaa1164a0d9c62284924396782855fa42013744eb9",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTneonCafe2_NY.tga"
+      ]
+    },
+    {
+      "image_id": "263aea80f01ff33e62de76d9f4d87a19ed65eaa85c1a5f2a614ae4b9daea0aff",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mppcCreateOver.tga"
+      ]
+    },
+    {
+      "image_id": "263ef65993204e725929d1ba30481269795f34e4a7d0a41a13303853fd262a22",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/dbOKbuttonDep.tga"
+      ]
+    },
+    {
+      "image_id": "26852a4d65bad99aa52f5349e0e645f9618f3385485c380d10172bce8293ad84",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatStartButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "279e225ebef6f11a5265ccf939484fbc84a2efdef2681db5793bf0f977a4ecda",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emmpSaveDep.tga"
+      ]
+    },
+    {
+      "image_id": "2801700635cfff679b099a87ebaa394ba2c5c81a09481b1b5ac9f53433c901a9",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mppcCancelDep.tga"
+      ]
+    },
+    {
+      "image_id": "28cc9a3676126f30c2b959764c2b8a048125c465ec0e3105d5cc6e6079f52caa",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsign6_NY.tga"
+      ]
+    },
+    {
+      "image_id": "2918c0b761ddcd47a36ca7a72a03cda43b40227827a0233cb94d11f6bb67165b",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapNYCdocks08.tga"
+      ]
+    },
+    {
+      "image_id": "292e35856fd86e9ac088bf1bc060527f03cdbe46e5c3a3b16143bbe42b9949c1",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/fireExtinguisher1.tga"
+      ]
+    },
+    {
+      "image_id": "2965402888f58697a71959faa1b90dd9b0a1bdf35c78f1c4f6b597be72f19d8d",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/STceiling1_L.tga"
+      ]
+    },
+    {
+      "image_id": "2993a68d5caf5bd6be2314f2bf107decbddcdb5aa868d97d47a1c625ca96ac6b",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplay10.tga"
+      ]
+    },
+    {
+      "image_id": "2c94dfd34367d8353c5137623d984ef2e3640677fb5790230079a2789b14821a",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/CharacterSelectMP_10.tga"
+      ]
+    },
+    {
+      "image_id": "2cf343048d156094881b2964499abe64ec51b03182331d0c7aa85c57cd67535e",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mppcCreateDep.tga"
+      ]
+    },
+    {
+      "image_id": "2d4ac986d7c9412acd39b3409f8decfd2d19e5875d68dea167f7ecd91827c180",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spLoadCancelButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "2e30cf1e1b43d64559a6e6d9888a5c7baf8321940b0b26b61afa876a0ee17f96",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/opsSoundExitButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "3059ff83525b2d933289ad5d7ea62a6ef811a6d76d3e50423b07aed7fd80b02d",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/MOTDupdatesButtonGrey.tga"
+      ]
+    },
+    {
+      "image_id": "3095fbc9492f30904ae5272fbd6e10a3da08b7d1e992ab395513d4fd9573d09d",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spLoad02.tga"
+      ]
+    },
+    {
+      "image_id": "315122ad5bdb571d498e17c01899ffb5f8a7c39ff3f0b4ee3a5733f213c57ae5",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpCreateRoom02.tga"
+      ]
+    },
+    {
+      "image_id": "316e7006ddb50d266cd1657a4ed6e57bc4261e499cde7e8e36b5367d38d72b43",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/General/portal.tga"
+      ]
+    },
+    {
+      "image_id": "33e0f678ce5cfaf369179fb7b4a9db4692f05919c35be3efe523394d4ff6dbad",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmOptions.tga"
+      ]
+    },
+    {
+      "image_id": "3467014e4e09d65f63146a5f31dc673d8ceae57ce253c6cdaab8c380ef8ad586",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/CharacterSelectMP_07.tga"
+      ]
+    },
+    {
+      "image_id": "348da02ff007b2b7abf6a6d1d29e989d1ae4c5ff5758f9e2f3cfed6247619453",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsignNewMoon1_2_NY.tga"
+      ]
+    },
+    {
+      "image_id": "350e324d9b478bbf797e0a2108b7cfcc9526b64bad0487483baef68c06164745",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsign2_1_NY.tga"
+      ]
+    },
+    {
+      "image_id": "351b626df11027def8959d44cd9b4b67cd0b09f3d838b8f1853669675b0c0f76",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatGameOptionsButton.tga"
+      ]
+    },
+    {
+      "image_id": "353accf4e5c46003ab637a59ae8ee60ae0c06029373d1cbcaec38b883e9ea24a",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsDisplayButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "35a0c51ac966fc255fd5326783281fd313fd003dadb4a91ab751db141268f47b",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcgLoadSavedButton.tga"
+      ]
+    },
+    {
+      "image_id": "35d873b8398a274cdb5d60f2e0957074bc1ef2fcd10a968eb11535616e9ac4c3",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/BooksMD3.tga"
+      ]
+    },
+    {
+      "image_id": "3622b67a8181150495bc98a7a457c8431dfe9ae956a15a36b463d2a1b1606fb3",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spNewButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "36809126d42dbeb9d5e3d0a104271e3e1ed92c18fefc3a017d529c7a43208485",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChat01.tga"
+      ]
+    },
+    {
+      "image_id": "377d79a3370aeb50a82350535c08eee54aef3c61043fcb7e7741a42722f141a4",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/BooksMD6.tga"
+      ]
+    },
+    {
+      "image_id": "3825b1cadce292e5f5230a0e1708a012e43c2754400a1134f63c7b1c50270e7f",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/globe2.tga"
+      ]
+    },
+    {
+      "image_id": "38413cb5fc5029b362e5a8c273083c0f640abf221c5de05a284c76ef9a6d7418",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/GHstoreSign_NY.tga"
+      ]
+    },
+    {
+      "image_id": "39fcd31a11d9734e945251a3e3f8843d2af9f8ac38925afa41213ae4952a9ab0",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/SLcrate3_3_L.tga"
+      ]
+    },
+    {
+      "image_id": "3a24c5b38cb43d2a8276a098755247084f3ae095b4dfbcbbcefb2a552e718767",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/StatusBarADV02.tga"
+      ]
+    },
+    {
+      "image_id": "3a550fe7cacb6561201910eea8ae5b5baf058e4987c23c6f98cbcd3678826826",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcgCreateGameButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "3a61765c041a0539af071466de129e375f3d10c46cc1385672296b583d1eb89d",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsControl07.tga"
+      ]
+    },
+    {
+      "image_id": "3ad46e2fc18d7d6f83ee86f9c922752d9c84bc73a92c23a2262cded00d59bb40",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapNYCdocks01.tga"
+      ]
+    },
+    {
+      "image_id": "3c42e1db347177bc5a4dc5817377d8a7e8a1e9d4e031c5395911639e202dc6de",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisAdvCancelButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "3c94cfa0e8d3c049ff40c1133b296bd0449c8a95ae9012f32c26db383e6523c6",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/GWwall3_4_NY.tga"
+      ]
+    },
+    {
+      "image_id": "3d0c3a33db76a41193ce3067e5adb460ca8d20f8e7dc5717738d019500719a61",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spSaveSavebuttonOver.tga"
+      ]
+    },
+    {
+      "image_id": "3d3cedd296055ae9485280c460744fb90a93799fe66b05a3137ce898f43d47fc",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatCreateRoomButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "3d9bdb4761fe9c52570703f852aed2ddcd1998a7235202097b7b7665e6b33890",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Resource.nob/3d/Materials/HazMatDrumExploder.tga"
+      ]
+    },
+    {
+      "image_id": "3dcf18b4d4eb5a25d0e5a5b2a532a35e0ea057452168ac3900c55bcd768e6e93",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/EscapeMenuMP01.tga"
+      ]
+    },
+    {
+      "image_id": "3ec10697f420edbe47c81232fd2800d8c9e535c72995bfaf54c469ebafec14c2",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emmpSaveOver.tga"
+      ]
+    },
+    {
+      "image_id": "3f3f8697b7bd63b299ca2b7285f45d48f094ac36826a151d83b5d59e9ccf316c",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/CSwall1_2_L.tga"
+      ]
+    },
+    {
+      "image_id": "40020ccdb43e2019e9d07eef08299508d16e063ebe1c064f2cfd930fca5b9816",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/Prague/PCrugtrim2_p.tga"
+      ]
+    },
+    {
+      "image_id": "40383ceb80ec41fde00b69ba285623390598dc6845e0daa90c65c89c09ffd1ac",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTstoreFront2_1_NY.tga"
+      ]
+    },
+    {
+      "image_id": "41594b39c2e2d2fe195bb6b0077cd718419e06068602f4fb38fe89749102fff8",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/London/Tenebrae_sign2_L.tga"
+      ]
+    },
+    {
+      "image_id": "41974c1bc1d9f4b1fdcc2a6112919ee33b575128685198bb4c9493471f868b86",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/UnornaRuneStone.tga"
+      ]
+    },
+    {
+      "image_id": "41acb9d3205fecaff62366a275fc8cef9056072650bc91ddcdbcc853841ebf2b",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpSelectLanGrey.tga"
+      ]
+    },
+    {
+      "image_id": "41c33933a26142649a42938ebf873ef02ac206063e313d8da8d15398d4b69854",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplayAdv02.tga"
+      ]
+    },
+    {
+      "image_id": "428d2c893c0858ad0a279f8ccb9054cf989ddb24dcbb5e0d3c7e86f9e7895f1d",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapNYCdocks04.tga"
+      ]
+    },
+    {
+      "image_id": "429bc142c3b4c5b4dde2095af971fa5aafff8ea8d351c6ff72ba7a69e4c2efb8",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/stControlsPane01.tga"
+      ]
+    },
+    {
+      "image_id": "42b7069c930a6424719efa126e4bae603e52201712cfaa2fb28e087253560a6b",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/documents2MD.tga"
+      ]
+    },
+    {
+      "image_id": "437a8a3ae3c790b1f5867cfdb4c31c41cedc3fe10e29d07074939d2cd9d0e247",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/ammoGatling.tga"
+      ]
+    },
+    {
+      "image_id": "43d25f0451fab00e6f31d5ce53dbc3a111fa9f3e43a3e317b8eb68967d626b7b",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WLplayerSetupButtonGrey.tga"
+      ]
+    },
+    {
+      "image_id": "43ed4115611f5b5a3e566b5edc5f152e0d044ad2a31d01ca7a672a07c12bd46d",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatJoinGameButton.tga"
+      ]
+    },
+    {
+      "image_id": "454f52dbe58090dda686e4743a197a597872194df33975bdc95c7618e945467b",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatChangeRoomButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "460059ed31bc9aa166c65f6bbbc14e1c2d539fade56e9ccb5a7328d918154c92",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spLoadLoadButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "468a213d755bf12314331ecd064c29aaeb094c58c0f294395f5c4fc8416bd2c7",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emmpQuitDep.tga"
+      ]
+    },
+    {
+      "image_id": "46cffad48c99ff8851051a571849c63cae4fcae15518b7d4e1503b679757e5b4",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplay02.tga"
+      ]
+    },
+    {
+      "image_id": "47af52aae1c43d1a0af295f34cd3543d837f0c32f219b628c829647868042897",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatStartButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "48bdfbdcfab6e27c7038e6821a27de65bae9680fdac61589863559f4621e24b1",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/General/lightbox.tga"
+      ]
+    },
+    {
+      "image_id": "491b6a9f21a37562d6a86ecb22d4aa43fa41d82c7c1bf1cb2c38c3c13c3cdca6",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/DCLgrafittiMM.tga"
+      ]
+    },
+    {
+      "image_id": "49bbfab486f105d13078c764473e88b9e479c5541a0f1648e6def242fd20b3b8",
+      "status": "installed",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/dbCancelButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "4a5cffa3d4b54bce4f5b685093f1cded62b787288a9efd8d27de3e9395fc3201",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/SetCoffin1.tga"
+      ]
+    },
+    {
+      "image_id": "4a8f3c36af02de9ed229c0e5b982ffe4e6ed86946d18c58b60c4be3eb2793f71",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsign9_NY.tga"
+      ]
+    },
+    {
+      "image_id": "4aa1f7900add0d5fedaffb4e5bb3d3e4d85b16902358020846dbb0e3fcd38e8f",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChat02.tga"
+      ]
+    },
+    {
+      "image_id": "4b7ffde6652878b52439071617ff56fdaa97443825b001b4631518ff986402ef",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/TitleScreen01.tga"
+      ]
+    },
+    {
+      "image_id": "4bbffdb6951a53c29efcecb5d7e5ceb2fce2d4fbe0f7ad1690c6f7c2c1f8e6a9",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/MOTDjoinRoomButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "4ca164bd8da8f68552ca9c7d237b04f016169846a987fdc0b033f87fd6f29ab2",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spLoad07.tga"
+      ]
+    },
+    {
+      "image_id": "4e02e3f04687e79d4e3c3cd87a240fb7689e56a7c4f6540b6ed20d2a1e4e9bc9",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/SLantiqueMapLondon_L.tga"
+      ]
+    },
+    {
+      "image_id": "4f0077782012722bfb0da226e4e6017decffcb556b096b0127a7710f286a70af",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/General/soundbox.tga"
+      ]
+    },
+    {
+      "image_id": "4f7fca6011a381a95e49373609b819a59c108393503f65538e616f523110a979",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/STcolumn1_2_L.tga"
+      ]
+    },
+    {
+      "image_id": "4f8337d865442dab95e6973a05a07142620918066ffb6a5bfdc9d5e01be50bbd",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/devNullCombo.tga"
+      ]
+    },
+    {
+      "image_id": "4fe937559feafb508caf70fee38599207dfc5bc51ab932f71dbf5aadbb90bb3b",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpSelectLanOver.tga"
+      ]
+    },
+    {
+      "image_id": "50159cc07e98a197fe0272e8f68f2aa41641483ea290ec9c8dfdab9635bb7388",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/MOTDupdatesButton.tga"
+      ]
+    },
+    {
+      "image_id": "50bf77d73bb9407a50a5bb029497d83e751289248f9a2fae01bdb992c14670e3",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapVienna09.tga"
+      ]
+    },
+    {
+      "image_id": "51bd4365e188dfed9abd0d11f8cdef3c946e1c99b15a968cacb5480101750f58",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsGameplayButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "52eb68d4ae7b6d62f30f0c6d5070d6607d2b7c477c0aa95c6fd5dea24d9adb06",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmMultiPlayerGrey.tga"
+      ]
+    },
+    {
+      "image_id": "5314f15fde3520e9aa37794c639650b340694c33676bc81f573876d8e4592b81",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/HydrantCover_L.tga"
+      ]
+    },
+    {
+      "image_id": "53ce129db1ace6593ff8da83b30aeb3b597faca8ca1843e1cac7db1a7280d951",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/MainMenu05.tga"
+      ]
+    },
+    {
+      "image_id": "55269ec0efcbcb63eb13b24e06fb30f47e331523b1814008ba9e65445c88576a",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsControlsButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "55b66e0fb8af2d548c05a2ef1ba052e8f1f7fb15c16d6ada5d8e6b0613da6b01",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsign11_NY.tga"
+      ]
+    },
+    {
+      "image_id": "564b046ecf4f0e4059c81082b45ff94971b36a2d2f28226ff5a373c00e652402",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmSinglePlayer.tga"
+      ]
+    },
+    {
+      "image_id": "574ca3bdbda2276da0d0ea06dcc53f55250d2ebcb6ece661f3fefb15a8fd3cbd",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/VaultPane04.tga"
+      ]
+    },
+    {
+      "image_id": "57911a32db98a5e3aaf9dfbc14ce572cf6dab66c3c77d6fcc62c3c5507da03aa",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/DCLplaqueLondon1.tga"
+      ]
+    },
+    {
+      "image_id": "5798efaeac5bf4485966bcd97d1b52e5182e43844c3122d91fd91a13d52853d6",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spMainMenuButton.tga"
+      ]
+    },
+    {
+      "image_id": "57a764c2283b604da8d033d670f01def36234a813e3ab0f254fe9157c210f9a7",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapNYCmidtown04.tga"
+      ]
+    },
+    {
+      "image_id": "5a5d68c6a9985eadb53839d8e2e386f2aaa9073a97cde3666b99fff200af54f0",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/sp02.tga"
+      ]
+    },
+    {
+      "image_id": "5b2ebf03d4e822181a094e9e8acec20c2ad22d2a25b9957d67e01759c6a23b58",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/GWwall2_4_NY.tga"
+      ]
+    },
+    {
+      "image_id": "5b743439bbf1c3411d14319939ffd54c64929afe3d2e29b982156fb6e6a7d8a5",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsControlsButton.tga"
+      ]
+    },
+    {
+      "image_id": "5ce8f13163013a77ac3ca4c7daaed769eaa77da6be5711df9df0493a6377b1d2",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/London/Tenabrae_sign1_L.tga"
+      ]
+    },
+    {
+      "image_id": "5dbe5b6da3e730c20f9c1ae96a900bd43dfdfa06498979597c675cda41456da4",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatJoinGameButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "5dfc82feeae1a6c3a0d5cef4416be090f7fba995eeef6c5f6b68a98b7989465c",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonMOTD03.tga"
+      ]
+    },
+    {
+      "image_id": "5eeaa0ce9385acd9a961ca50bd89abb5e5a0e07d4c5b45dbe497be5b01549bc9",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/StatusBarADV02MD.tga"
+      ]
+    },
+    {
+      "image_id": "5f8b60b0d1738155967914a279f656c67947dee17e911d8e5d52407924973a84",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/phoneBooth_NY.tga"
+      ]
+    },
+    {
+      "image_id": "60b825f2c33ecfce2eeb199310a9f89676d9b1e9f57bfa30f3a53759b0cc368b",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emOptionsDep.tga"
+      ]
+    },
+    {
+      "image_id": "617c82f949acee298104373dfa232e8a3f1ec9f516cad0f86613147f0f635c8d",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emLoadOver.tga"
+      ]
+    },
+    {
+      "image_id": "61c5fa0b238c6ecf2a2b2ddf5280492e543eb8dd48ded8f9a69385be8f0330a9",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/charManaLabel.tga"
+      ]
+    },
+    {
+      "image_id": "61c95d15955e9c7f3ce99ece6d09696b8ebe42a9270ba09729bcd252e669cdef",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/SLcrate2_1_L.tga"
+      ]
+    },
+    {
+      "image_id": "6270fda822d77d1144d0fcb22f30190b3e09af59f9e08380523ffc593621f005",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mppcCancelOver.tga"
+      ]
+    },
+    {
+      "image_id": "62ce779d2eb3220e745cc23c422ba850638456885f92ba5fc9de8919d4b334d3",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsign3_NY.tga"
+      ]
+    },
+    {
+      "image_id": "62f988b8b927034c9ce6ab7b4459a1c1f97b1b48888f278ae8aa58c5d8455b13",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisAdvOKButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "6307e71819fe6bd8488aa853805478c85437ce1a1952afb73608e17ed147b879",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpSelect02.tga"
+      ]
+    },
+    {
+      "image_id": "64171c294a1c782b6ef539a675873446bdd2882cf02c1d61d349acd5478791ec",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsSound05.tga"
+      ]
+    },
+    {
+      "image_id": "64a8b51b22748b670375c6b331735a6fb8884173a42c3419d73d64db65b985bc",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsign1_3_NY.tga"
+      ]
+    },
+    {
+      "image_id": "65014bf9b936a9723f67e66d2c4977327cff8a401bdd8111d5edff2655f60cbd",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapLondonEast02.tga"
+      ]
+    },
+    {
+      "image_id": "656350b75bd86432e682b44ee15ff6ecd1cbe58263c0cb80f78be8b7981fd98f",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatChangeRoomButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "65ab2631386debe309137c5305d4a850a0850d1759c91f27df41a4c5bb2dfcc3",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTneonCafe3_NY.tga"
+      ]
+    },
+    {
+      "image_id": "6621ced16891ccc31ab06ef5d8f62962e88ebc029828b8d6e4aad52fbd1abb1d",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcrCreateRoomButton.tga"
+      ]
+    },
+    {
+      "image_id": "662d3bf11e364db3c4eeebecfbd7836bec300a883a8a4ed0f57a780f4f35987a",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emResumeOver.tga"
+      ]
+    },
+    {
+      "image_id": "66f0f858ab975082aacfc0a4fa131cf6f8765f257b2e7d3e8a959606dc95a864",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/interpolID.tga"
+      ]
+    },
+    {
+      "image_id": "6741f32aeb175920e72aaabcbca85743417e1d4e22737bfe93722daab890e570",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsign2_2_NY.tga"
+      ]
+    },
+    {
+      "image_id": "6831d3d6d4c004133b0e23018aca24c60b6c9f81d48bd0896713790d0917715c",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/CharacterPane01.tga"
+      ]
+    },
+    {
+      "image_id": "68f863dac7d6539b039c5a6b9d33c243a5c0c3d8965d8115289ad95272967d2b",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/AmmoBox4.tga"
+      ]
+    },
+    {
+      "image_id": "698165ab9f4feb8da58912b1e7e47944db618aacd658c61c3e09beee5c99e59f",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapNYCmidtown02.tga"
+      ]
+    },
+    {
+      "image_id": "69d67af6c40fc52183e0326c75b1dab5d6d62e386e021a7775282095cb7e7aa7",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonMOTD02.tga"
+      ]
+    },
+    {
+      "image_id": "69f88b6ded0f5fd83c1909c7b23a81e2f7658b892b629d11fc905b903e405590",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/whiteWolfLinkOver.tga"
+      ]
+    },
+    {
+      "image_id": "6a81e202fc514dcb20950dcd9dfe79deb99e4d594d9227c2d9e83e2331862817",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatLeaveGameButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "6af184bf6f5d3e6d92d9ba2c7eed8283495fac527fd3f610c1455011a801ed07",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/BooksMD4.tga"
+      ]
+    },
+    {
+      "image_id": "6b1cc383bd12e97e49812bba45341fb1041b78cb760d117032534d4ad9845ed0",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/CharacterSelectMP_02.tga"
+      ]
+    },
+    {
+      "image_id": "6cabd4f8afa28865b2e420e348a920c018ce86cfe78b90da830455f7f1dfbe24",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonMOTD10.tga"
+      ]
+    },
+    {
+      "image_id": "6d66316fcce50a2230a1afba222ef07892c81d0b629c81694e9760e22d59e5f9",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/gasCan.tga"
+      ]
+    },
+    {
+      "image_id": "6dc48c878838d2737f84485e6068f7f8d677ab07ed090da4da15b7b7977d720a",
+      "status": "installed",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/dbCancelButtonGrey.tga"
+      ]
+    },
+    {
+      "image_id": "6e3949e374b341e61e725bd370552f616e0619f31488036c3756f99da41f4fae",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsGameplay02.tga"
+      ]
+    },
+    {
+      "image_id": "6ec6d1409fb3f43a63250a68082e9f65fd98fd82e29812146f075cc614de714f",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsignNewMoon1_1_NY.tga"
+      ]
+    },
+    {
+      "image_id": "6ec9386c5c9f8872d63c56926022dcac22ad2c90b870af346148107cae272ddf",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/CharacterPane01MD.tga"
+      ]
+    },
+    {
+      "image_id": "6f14192eda07d1fdd467e787fc7e0ad459532e81ee51c02e7753324d8352f3a0",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcgCreateGameButton.tga"
+      ]
+    },
+    {
+      "image_id": "6f5e80909a6aafe2600f72b79ec410e4996d9b21695de29b8bb38f8fce02369c",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpCreateGame01.tga"
+      ]
+    },
+    {
+      "image_id": "6f9e1a707c88798aead9873b508a0a897e9042f7e2140e5933fe107678a3b23f",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsControl01.tga"
+      ]
+    },
+    {
+      "image_id": "6ff145174e9868220ae7387c8f04b42867f35ecfcce07bbee8f15ff874f78ec4",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/SLcrate4_3_L.tga"
+      ]
+    },
+    {
+      "image_id": "70be89b79a7053a8dbd0685513dfef2d42b656f3e635138c4db9b65043cca274",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/GHNeonOpen1_NY.tga"
+      ]
+    },
+    {
+      "image_id": "7166897faafbc72540e4cfe8a796993c6bfb58a57ed814128e466b7468f06c82",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpPlayerCreate_02.tga"
+      ]
+    },
+    {
+      "image_id": "71c53d647c0f3bece97f44675276a84b0b577067fd13adc501cc6edef617f0b4",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsDoneButton.tga"
+      ]
+    },
+    {
+      "image_id": "71fec7266785d089547a3e463b19d1bd436129a92b457ac2771509ecfa21fd20",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonLogin02.tga"
+      ]
+    },
+    {
+      "image_id": "723474f54c29d678d2752c62f7913461a5fce1fc467bcc6f0c73d0a14a73b23c",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatStartButton.tga"
+      ]
+    },
+    {
+      "image_id": "72509387b7688f51d0ef732f31330264dd2f5ec1f52df44ffcc0bd6a8e4dd7be",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/STwall1_4_L.tga"
+      ]
+    },
+    {
+      "image_id": "726795693430340e589a0d5e9ddcc06f09078e2fc917a20a9512edb619f932a0",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emLoadDep.tga"
+      ]
+    },
+    {
+      "image_id": "72f6343246a60f5399b588167ea5331840e3c50846a6e6cdc4a1253e8b3fd844",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/VaultPane04MD.tga"
+      ]
+    },
+    {
+      "image_id": "730c1436dfe4dee0c9cc74b35180280ec2ebd3dcccdccccce15d133ceb60282e",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/playWonFreeOver.tga"
+      ]
+    },
+    {
+      "image_id": "734a0fbdd0f9a8851d0363e488e8064b6246f54f23498efd2b62876fbfa1791e",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTneonSalon_NY.tga"
+      ]
+    },
+    {
+      "image_id": "75b631232f9350a2c683aa42aa3e767e9a81d30b4e6f1c078f02c26f548c21b8",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/MOTDupdatesButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "767a6e5d81f84ede18beffa0ab19a6ce6715164ad6350ae2ce08b0d1d69b5980",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmMultiPlayerDep.tga"
+      ]
+    },
+    {
+      "image_id": "7687c182df33d603fa342e79b93fd5f400d05f3c2b05010a7f344bf2dbdbe862",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/csCreateNewDep.tga"
+      ]
+    },
+    {
+      "image_id": "76b1a5243cfc7a9adc40cb5be43dac90263df2bb75e7f74e5aed6085298fa89e",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emmpResumeOver.tga"
+      ]
+    },
+    {
+      "image_id": "76d09c2dac9a8fab88692fd9e2de81f784acd1ca5425a7f780a379b4d5465c0a",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapPragueOT02.tga"
+      ]
+    },
+    {
+      "image_id": "77c052a31791e2f1e6c063aa72bd0763bb5017131b853adddd3a79c406abe4ba",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpSelectInternetOver.tga"
+      ]
+    },
+    {
+      "image_id": "783538d40e64ca248709202d892d74a5e0622b5fc73d92615e21e7d659ecae2c",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplay07.tga"
+      ]
+    },
+    {
+      "image_id": "7973600ee5fe7dc609f17fc850828e9c05b0494cd25faaee604ede3835058951",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmCredits.tga"
+      ]
+    },
+    {
+      "image_id": "7a4bddfd46c17840413879ad9a571f5018c8bf267eba7dd504b922081f5cf12e",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapLondonEast05.tga"
+      ]
+    },
+    {
+      "image_id": "7a5cd10a83699ef064adb2927ed525336716384f5547e2c6f832b22e2bdcc89e",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmCreditsOver.tga"
+      ]
+    },
+    {
+      "image_id": "7ac7443602db9acfeca46e0b5bf8cedca9e908f168145915f6c11eaaa80fa645",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmMultiPlayerOver.tga"
+      ]
+    },
+    {
+      "image_id": "7c5104f9a1d4e46e44bca7f51c7cb0f3ada2a75b05783c8d4ea1c48e3a6b1a4a",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/grafitti1_L.tga"
+      ]
+    },
+    {
+      "image_id": "7d08efefeb14f09596aa14f8f0745a713abf99f88b41f6e920c154ba55a6349a",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatGameOptionsButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "7de52ea841f267bb3ce3c4823abc1851791ccc751a5e73379e5280bf2ac3aa8e",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/NYCcab.tga"
+      ]
+    },
+    {
+      "image_id": "7f53fbd000f215137941bce8b6310ebff7dc63b271590223ae5eb1c4ae68058a",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatGameOptionsButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "7f691f2ed3cd2241e92c5aa8869bae5151131618383b92f63d9109ac35ac80cc",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/Vienna/HHwall1_4_v.tga"
+      ]
+    },
+    {
+      "image_id": "80d208792bb5b981b54bc18c78fbbaf6bb8def8f70a24b8c7fbe993e73c090f4",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsSoundExitButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "82246208382e4ad1cb62f51b0f59195804f4e2540daa629ee4923c8d8ad5aa0a",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spMainMenuButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "829ee20a656e2f090ec5c4c044d5bfae3c69896012588460e1d56002665905d4",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatStartButtonGrey.tga"
+      ]
+    },
+    {
+      "image_id": "836ec01215dac34ae4ddaa845ffa7a8a101e945d15b70f0ae266f33ae2c4fb5b",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/posters1_1_L.tga"
+      ]
+    },
+    {
+      "image_id": "83d3e10ea08838046130964a820c895f96abe853f8bd202f8f5e8d3d167d3ecb",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapTemesvar07.tga"
+      ]
+    },
+    {
+      "image_id": "841128bda44575257cfb1def410175b952fcb5302eecb0d8facdafc3b35d70bb",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spSave08.tga"
+      ]
+    },
+    {
+      "image_id": "8419e7711182aec3dda8d35d0f328ea0989ea7619c5b7c87d75105776a8b67c3",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "LMaterials.nob/materials/London/exit_sign_L.tga"
+      ]
+    },
+    {
+      "image_id": "8486701e52a1bbb4fac7ac76c3ae3ea15953504d4e33259e6e090d956fdcedc2",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/BooksMD5.tga"
+      ]
+    },
+    {
+      "image_id": "84bc1eef7874ae2f107fe4208ad29e9043ec7ee56b6cab9d551e41eb445accee",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/scale.tga"
+      ]
+    },
+    {
+      "image_id": "852fde414bcfc3992a13c995a3b22853d2d8c7236ee134e27461b3a60f005cf8",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emResumeDep.tga"
+      ]
+    },
+    {
+      "image_id": "854204d070d634b9000c59f9b5207d2eacec78e0746638ea16a4456cc61036a2",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spLoadButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "8882c4fbad1f620819c6ca54da95c8b21c29a84851aef148d2004969ed7a1fad",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Resource.nob/3d/Materials/AmmoBox3.tga"
+      ]
+    },
+    {
+      "image_id": "88ac81bcfb1aa177cccec720a4e9d1109c859787d34fec65584b2994d0fbe9df",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapNYCdocks03.tga"
+      ]
+    },
+    {
+      "image_id": "88f796332b51d5e0cbcdff83ce4ee0476ec2316c27d067a645825952e58ef4ce",
+      "status": "installed",
+      "sources": [
+        "LMaterials.nob/materials/London/pier29_L.tga"
+      ]
+    },
+    {
+      "image_id": "89ed0bd476f3f9b2fd25271340366ca1bae1173689b60e6937fc55ecac33264d",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/MOTDcancelButtonDep.tga",
+        "Local_Eng.nob/ui/Materials/mpcgCancelButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "89f7ff1cd386e5de425000f1cc7723108e5ad91278b5b55aca0b118c061b3625",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/NMfloor2_NY.tga"
+      ]
+    },
+    {
+      "image_id": "8a2b67a1f58dcf1c2ddd5ae8dd0cbfafcc6cdbfd25f538ae1913ed382efc4cd0",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmSinglePlayerDep.tga"
+      ]
+    },
+    {
+      "image_id": "8aaaf3e0f393d12c3364b499bb35c697dd499d8a47ba6ef82380d708343e90c5",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emmpResumeDep.tga"
+      ]
+    },
+    {
+      "image_id": "8b5c812c3d0103287646da128e7c4e1b7a564b2cf008fd4d97d99d7e6f76f4ad",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapLondonWest01.tga"
+      ]
+    },
+    {
+      "image_id": "8b6dd84135f5b3c667aafa3fb64d0d7206620f851d9a220a612f4bbed7abe996",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Resource.nob/3d/Materials/AmmoBox1.tga"
+      ]
+    },
+    {
+      "image_id": "8b9b6e20f7fc987055fc603eceffb754cc86e5b7b5776f7095df8789667a9fa1",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spNewButton.tga"
+      ]
+    },
+    {
+      "image_id": "8c53b149b1cef44d375a2b0d44dc979c29ee36d0f14204021e625231209ac48d",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpSelectMainMenu.tga"
+      ]
+    },
+    {
+      "image_id": "8c663462f11742f69b410b8acdc319de49476c5b01d4d805df5d48a36b5e2cbc",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/NYPDcar.tga"
+      ]
+    },
+    {
+      "image_id": "8c74205f8d07361756764891dbea22bdebf56cbea7fa83aca724af7665c0c1ce",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonLogin10.tga"
+      ]
+    },
+    {
+      "image_id": "8cbad1ca7771a36b808018777b57d2b694b5daad29216c7d1b9c77b86affc4b0",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/DNposter1_NY.tga"
+      ]
+    },
+    {
+      "image_id": "8cc21914bd0c9006b15a65958fe1f05609153ece934f81e166c5318171df1eea",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Icons/GiovanniAccessCodesIcon.tga"
+      ]
+    },
+    {
+      "image_id": "8d3bd923c03bbe5794ccc7380895840334af2f224b127fe4b89f79dc1eee500c",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsControl02.tga"
+      ]
+    },
+    {
+      "image_id": "8e00fb7c818f4613c7888e9c03c93d44cb72c96d6aeff83a0457d36c8dd15928",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/SarcophagusPrague1B.tga"
+      ]
+    },
+    {
+      "image_id": "8e04626fb7262b2faeb89a77eac0c800284333f5eb67f8dd24012c4aa1c9bca9",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/shipContainer1_1_L.tga"
+      ]
+    },
+    {
+      "image_id": "8e08fc88e6ea1c0cbc4165ca2959b61dbc4e15b1124dfbfe3db4bc562644c52d",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/CommunicatingMenu01.tga"
+      ]
+    },
+    {
+      "image_id": "8e5c3f04dfc8c749c4972c54bf61f035a5f7a80fade073ea39990bcf39af2470",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/Options05.tga"
+      ]
+    },
+    {
+      "image_id": "8e7ab99a6a3ddb5f542b5c3f27fd9797f02f013c52bd8bf0e03d32abd8ec1eba",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WLloginButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "8f4c1bb6b6479448be65112352158f00a825d9de109795b49f7db660d5f04a11",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/csExitDep.tga"
+      ]
+    },
+    {
+      "image_id": "902b66af7c3b84016a92e15a8ea1d45206d835ec7d871f61f59142ee0120d3f8",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/CSdoor.tga"
+      ]
+    },
+    {
+      "image_id": "9203ebfeda60c68375f5f92f3352e51ed56dbcf0c9212c210696844ea2dd5443",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emmpQuitOver.tga"
+      ]
+    },
+    {
+      "image_id": "929278ea391cd3c505c9607b483cbe274f1f976a229a9add64d149a5df817472",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/posters2_1_L.tga"
+      ]
+    },
+    {
+      "image_id": "9318e0a7bfee864d1841eb040653956586483a3d442632c588abccafd4e68a42",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonMOTD06.tga"
+      ]
+    },
+    {
+      "image_id": "93c63a2da76cc08bffab384c166bd49240ea67cfa0b86fd5118748ea03e80a90",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapVienna08.tga"
+      ]
+    },
+    {
+      "image_id": "93eab6f9f8f50eb3f31133bafc31e6bf9bfe13e779fb62ab138acfaefb78a01a",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/FuelTanksCase.tga"
+      ]
+    },
+    {
+      "image_id": "9592e9afa1ea42d7b3884942f78a5538c75533235ded41eebfd2e8ac839d0cd6",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/SWswitches2_1_NY.tga"
+      ]
+    },
+    {
+      "image_id": "9733f60a976b839f8ef7cc539d66a2f416f4918de2a29b96ceae75bdec4240f6",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/cursorUse.tga"
+      ]
+    },
+    {
+      "image_id": "98969bea8ec0e9a6793cbf0cea588682c7ea77071598b2e2cf8eb1d762356dda",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/MainMenu01.tga"
+      ]
+    },
+    {
+      "image_id": "9954fa04a8feb9c7c71e70d8d77e5b52f75a77570a1817486f68fd3945bdf506",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/manhole1_NY.tga"
+      ]
+    },
+    {
+      "image_id": "999b96668433a97dfae8c3722ffa2233c8ca56a30856a4a110548783acd7bdd5",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpCreateGame02.tga"
+      ]
+    },
+    {
+      "image_id": "99d8bbfdcb3bd24315c0980d2cc202b11f78844bdbe1fd5a956b3a67453f7487",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapLondonWest07.tga"
+      ]
+    },
+    {
+      "image_id": "99f555acaf9a486cd7846458bfd3ff25c5aaad31baa3af8d76abdf2d5b28301a",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/Vienna/HHdoor1_v.tga"
+      ]
+    },
+    {
+      "image_id": "9a052e3a44b73fa868d8c4dc290a020e767e6452b4cd35e7bef16ab841572bc8",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/Options02.tga"
+      ]
+    },
+    {
+      "image_id": "9a2c64db102b22d31ab33c5e62ab6b1f13cd95d79a157bdd5feaa7b6b2b086b6",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmSinglePlayerGrey.tga"
+      ]
+    },
+    {
+      "image_id": "9ab5997ddaef3d835fd10da0dd600356744dc448029d39f4495b31176c1eea67",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatLeaveGameButton.tga"
+      ]
+    },
+    {
+      "image_id": "9b2ce7cd352140634fa0c5a19f2a720429f2e422c02c54ab4e5b11eafe4d2d68",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/MOTDjoinRoomButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "9b34229ed964cd671edd6b1e6f0ede6e2e3a7d02a0993d95bf6edb7392c1a6cb",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/shipContainer1_2_L.tga"
+      ]
+    },
+    {
+      "image_id": "9b3a77bb94a860f8bce8aafafcbf93597fdb80db0b96b3fe5edc415732e78dcc",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplayAdv08.tga"
+      ]
+    },
+    {
+      "image_id": "9bf7c67c41bda5449b5416d906cd4e34cea0d4157a32b4cd1f7bf591eef05a3f",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/csOKover.tga"
+      ]
+    },
+    {
+      "image_id": "9e1690244d7570e73aa562460a8c75945c2458fa074c3b75998202c75c9949cf",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatCreateRoomButton.tga"
+      ]
+    },
+    {
+      "image_id": "9e4d36b24a4ae4aee043df2d50434e53d43bb86d061cbfdf1d19ba1c52629b62",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplay08.tga"
+      ]
+    },
+    {
+      "image_id": "9e682c5ba0b3f2c13090190dbac867601b825e4465e7a91c03eec89d4fcda01c",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/London/SLlocker2_1_L.tga"
+      ]
+    },
+    {
+      "image_id": "a0142ff234cb28a5ade228c07df3b51bf8bf804819a3cf2293d33de708cf8174",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcrCreateRoomButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "a20033355dbbfb73f8470f0c31d911d6ddcfafc824c6b4fcb6d950db6a6a5f72",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/DCLplaqueLondon2.tga"
+      ]
+    },
+    {
+      "image_id": "a2607914fe5e66e7048bc146d99d623d8ba3d236e2442386682e25d39354df93",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatCreateGameButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "a2ab7c34fd2fddb00d32688f9f4989418d3b2c210874cec5ce6c77703708e371",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/Hbottles5.tga"
+      ]
+    },
+    {
+      "image_id": "a3146949a60b7a00ad12d960641b76248f9c8851f54bde3cf0b0035a2a6762a6",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/NihilisticLinkOver.tga"
+      ]
+    },
+    {
+      "image_id": "a32149bc4f14301c61fd7aec48558c794ada9f091d38300d8b66ba80bf049018",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplay05.tga"
+      ]
+    },
+    {
+      "image_id": "a4009e9eacad8ed52e2b74865c91bdb58caf34dcd81f0a58cf44f3a2d3257114",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spLoadButton.tga"
+      ]
+    },
+    {
+      "image_id": "a53ce9ed9a5fcea70d35bbf921f94f317788cd6755c74e9726cd13a03f77ab8c",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/shipContainer3_1_L.tga"
+      ]
+    },
+    {
+      "image_id": "a787c2e73e51254c3135fba5c7814c06225129589787f7e881591d93ebbf9a7a",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WLplayerSetupButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "a9b2ff6793b5dc9f8cd3c58f83795a8d929c0ab6a996a9b5b28d6e286cf225c2",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsDoneButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "aa64a87370bfed02d6b73cf4c08ad3c70730a3d3a8da220e975ee30f616da33a",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTwindowNewMoon_NY.tga"
+      ]
+    },
+    {
+      "image_id": "aad608a9f1909b996118a632b6928c06c941cfb3b134134505248376770e593d",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcgCreateGameButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "ab417a5c1cf6a6f7ab25e54edaee7041d750896f16c711ab6de72ab83ad9f411",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpSelectInternetDep.tga"
+      ]
+    },
+    {
+      "image_id": "ac3da45c8919e9723a56ca9689aa185004c9fa456d292d0ba65772eb8ae163fa",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsDisplayButton.tga"
+      ]
+    },
+    {
+      "image_id": "ac5effc3c5facec5ff0bed51ce9c89f9072a5a046e98a7fd8805e170ea927738",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsign10_NY.tga"
+      ]
+    },
+    {
+      "image_id": "ac9f6da11b96a6671785575a14ee8d576f821f572e57d3f4578d9a72abcf15f1",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/SBmarquee1_L.tga"
+      ]
+    },
+    {
+      "image_id": "ad1c179cd4c16981c92220d3369eee846ccc00d2e30a4e1fb136c24ad11dec43",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/TitleScreen05.tga"
+      ]
+    },
+    {
+      "image_id": "aec8237b6cb01573673058a0b6154f37d43607bc88b35eea2892c7adbbf02553",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplayAdv04.tga"
+      ]
+    },
+    {
+      "image_id": "aede8ebccc1635179c9a640b62cbc01821631f38aa9833294b17bb5f9564c722",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Resource.nob/3d/Materials/CurioSign.tga"
+      ]
+    },
+    {
+      "image_id": "afd9f5ead844c3169c17a99852bca1956fda6a0fd3bcfe15b0660c43ea0e79b8",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emmpSaveGrey.tga"
+      ]
+    },
+    {
+      "image_id": "b117654722e45e7a944b08eea823345e1fa8370bc2f70907739eba2d18eb5cdf",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsGameplay07.tga"
+      ]
+    },
+    {
+      "image_id": "b154e602ce20fae18041180d0e27b888dd44ac3f4469f24271c7783c1e49c54e",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/policeCarLondon.tga"
+      ]
+    },
+    {
+      "image_id": "b3881f390468dfd97a2796b6fc362f5edaa0e6a759fe8b6b79752f0695fb538e",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsign8_NY.tga"
+      ]
+    },
+    {
+      "image_id": "b4157089299f8b561bf32adc244ff9f58e4a45579d05ca36bb997acc3cc4692d",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spMainMenuButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "b439a7db00dccde6a2b9bdc1d71ddac834b79a582ab6595c5ce8a31dd0ccddcc",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpSelectLanDep.tga"
+      ]
+    },
+    {
+      "image_id": "b46d98e1274f66ccff8680e8685afe902069058a6a1475eafa069241ea213826",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/csCreateNewOver.tga"
+      ]
+    },
+    {
+      "image_id": "b496f2c0242e12ac897fadbb5bb2512e4506e7dad2047ed1e7bddcce6629f7c0",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpPlayerCreate_04.tga"
+      ]
+    },
+    {
+      "image_id": "b4eb4f5ad3423db43466524c5ee31b5d0c1012f91927243a5dfe10d868581e43",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/csExitOver.tga"
+      ]
+    },
+    {
+      "image_id": "b4eeb256a55d6a2857604f7bafb0f67982a7b8f4807982596cdaaf858d8c1db9",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapLondonEast09.tga",
+        "Local_Eng.nob/ui/Materials/mapLondonWest09.tga"
+      ]
+    },
+    {
+      "image_id": "b5641569fa618396f9cefe96cdcba9cfea0d145af7f85ac5c31bc447d0e45518",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/CharacterSelectMP_04.tga"
+      ]
+    },
+    {
+      "image_id": "b6b0a3452471539d222c0fea54ca7612fb2c91e9703623e2b4f34130ee8aec48",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/SWswitches1_3_NY.tga"
+      ]
+    },
+    {
+      "image_id": "b74b0adca6247baef22f585dbfd37151b83e4e8a7365990afbd564dd844f3f63",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/GHsign1_2_NY.tga"
+      ]
+    },
+    {
+      "image_id": "b7de4c479aa770ebed2858ebf5870f427cc40f3961e0d7e5ebec0a1e1a61ce92",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Resource.nob/3d/Materials/phonebooth.tga"
+      ]
+    },
+    {
+      "image_id": "b8b8c180910978047d128382501dd004bdba5a89c79d4aab1ea0ca140892f8bd",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/tenebrae_poster2_L.tga"
+      ]
+    },
+    {
+      "image_id": "b94745ae3ae17cf6a9e0d62b4718fd9e1490003c0caf3faa4b95e243a2277f5a",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/DCLdevNullWriting1_NY.tga"
+      ]
+    },
+    {
+      "image_id": "bada54683080c83bced5fa06d4a0befadac7d6084a181c3ec22bb1377240eb0d",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/phoneBooth2_NY.tga"
+      ]
+    },
+    {
+      "image_id": "bb40fb32cf077104da20a136868922ffeba37a51802a751dd875b47a8030f35c",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spNewButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "bb6f658d5be8c02cf8e86ce17fa8311cb525a65f25aeef61460b287c13ae067f",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTstoreFront2_2_NY.tga"
+      ]
+    },
+    {
+      "image_id": "bc44bacfa92ef96e09ba8779379291afb78e75f63fc9f6aebebce566f53de6bd",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WLquitButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "bca65a1484c8703705c46fa5e2fa952551d528c65e4be4424d39966840c3d82a",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/tenebrae_poster1_L.tga"
+      ]
+    },
+    {
+      "image_id": "bda51581f5d4e8c26bb27c6d38485b129f6e26fb768f5eba684c956d6f784b7a",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmCreditsDep.tga"
+      ]
+    },
+    {
+      "image_id": "bed62a872a0c1eb28bc367fe46a8c125dde30cf955970c8fe38f7cc42d47b05a",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmSinglePlayerOver.tga"
+      ]
+    },
+    {
+      "image_id": "bf1bab7fa23e731f34e3e4e48fee973c815747b26b7538a8212d8e7232033879",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpSelectMainMenuDep.tga"
+      ]
+    },
+    {
+      "image_id": "bf2eb5ea4016aa83994ad42d206b3ccaa36ddab4656bee43a615f668fb8e16ce",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonMOTD07.tga"
+      ]
+    },
+    {
+      "image_id": "bf7fdbbe52460d5ec3af64ad52fbde6a269cbad56e5a5e223fb2a5c7c190706f",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/MOTDupdatesButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "bfa40090aa095283ea9df7c09162dd4b54826ffaa4702ffd46c25c222e0486b6",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplayAdv05.tga"
+      ]
+    },
+    {
+      "image_id": "c1acc7d7c94f88f3faf972bd7083d06e7f19173dea180bdc2abf5a9e1b40554d",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/golemShem.tga"
+      ]
+    },
+    {
+      "image_id": "c1ff68f0a408f5e33f88bc68d44d6719d4e1a8d6197097c4e952f6a7a2ea749d",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonMOTD08.tga"
+      ]
+    },
+    {
+      "image_id": "c2563e608c28b250afebf74326ca0a2411b3c65455828376814bbeeda7c926cc",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spSaveSavebutton.tga"
+      ]
+    },
+    {
+      "image_id": "c2d8ddfa44df9613d5cb75da7060d811f29b4434805b09561d02eb40f45996d4",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WLplayerSetupButton.tga"
+      ]
+    },
+    {
+      "image_id": "c37b5af0197501d9a473c0d07b9a1942d321d7fe59f06274f082888a46a57665",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/New_York/door4_4_NY.tga"
+      ]
+    },
+    {
+      "image_id": "c3d6d4e02e710f7e8250898b65683d96268e66ca0379711d072e964711d661f5",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsSoundButton.tga"
+      ]
+    },
+    {
+      "image_id": "c451454707809882b8e0a47dc12e95c611e2d25c9f27eef0d0666e3838ad64b4",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/PWMBcancelButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "c453981a95c733d2eb389323597d52ee020e0cc066693ae80833e4b999af8f84",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/PasswordMessageBox.tga"
+      ]
+    },
+    {
+      "image_id": "c566c677bdda8cc850fdbf26534e46da085a0d094769cb2404757b67b2ef0051",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WLplayerSetupButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "c60586a0f213e07757e7e0a944e694cf71afd13d9b20a67e6a788e3adaa35dcc",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmOptionsDep.tga"
+      ]
+    },
+    {
+      "image_id": "c7100009b5a07eb66c1487116c1450c435f95776d64cad86a25e7d6a4b8277f4",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapLondonWest05.tga"
+      ]
+    },
+    {
+      "image_id": "c764f32accff5c7fae970b2847e33928ccfa24bc4b6f100480f87224366f5cb9",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsGameplay08.tga"
+      ]
+    },
+    {
+      "image_id": "c8338a9979d6936b0bc991395392de3cc444c4a8bbf5b8212c600df26138606b",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/cashUK.tga"
+      ]
+    },
+    {
+      "image_id": "c83e52c58786ad133a2deab0dedaede7fcc49aae3846a7c21e675d6a248d4abd",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatLogOutButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "c941ab65c8c7aa34bd697f5f4e37e7a4099145cb3a53eb3b1e9b3a3c3d00ca61",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapNYCmidtown03.tga"
+      ]
+    },
+    {
+      "image_id": "ca3ad1d61606a6a10d596a9ce700c4c405118d9b269fce69f07af31f12ec59f8",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/Vienna/SDportrait3_v.tga"
+      ]
+    },
+    {
+      "image_id": "ca82262b74d17dd4ab58bf8e87f2e296b3fe0ab5cd9c9e5893aa2b7e261d36f3",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsSoundButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "caf70ef3d2e09c69dad0db4c06d7b66f79857c01cb5e0be31c5aad1e22587d2c",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/PWMBokButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "cb061df49af9655afcf4230a298fdf490e971bef36b8729857821353363879cc",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/Prague/TCchart1_p.tga"
+      ]
+    },
+    {
+      "image_id": "cb0ad8e7582dbd6a3d1bea89c470992ad35e65d8b173461200b622f87b7dffa5",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spLoadButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "cb970cab75a8c7a6a6b6988237351f0bb26b8d63f9aae68fbbf9a4f072ed7c3e",
+      "status": "installed",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/dbCancelButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "cb9f8fb303bd1ff90546e537f7cfe8b349a67f935e3385907a44b34e1544f669",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/BooksDA3.tga"
+      ]
+    },
+    {
+      "image_id": "cc74061f2907f0e65dc6c7d6df00c85bef9c8b0f13790ca763a5a32546ec705e",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WLquitButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "cd5f20b50917261a6ccdaf1d58d8ad56a28af5f01182ad6776dbb480c1a8d954",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/EscapeMenu01.tga"
+      ]
+    },
+    {
+      "image_id": "cdc284ac93183d14c2cd7885860a7a39e5d08a8b4697974c89911f3a39fa8cfa",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatLogOutButton.tga"
+      ]
+    },
+    {
+      "image_id": "ce8bd749df11c957ae65ddc95e0ea804346ae4c8ed97b71036513d7b4f63a3b7",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmMultiPlayer.tga"
+      ]
+    },
+    {
+      "image_id": "cf4aa42e58745adb9727605c81757b739a8f12ffc3849c6d3f1955a4df3ce308",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WLloginButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "cf643c6b187c058d51e22fc21c4f4c7d91579f5f9b15e976e7cef06cdca43861",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WLnewAccountButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "cf6a6dc7be12600161ea420ebde76a209ab861c8cb6d9d4f487fd71ead4546a0",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatChangeRoomButton.tga"
+      ]
+    },
+    {
+      "image_id": "cfdf47831902f47a8e62390543d6902b3ed8841f972a2006bdb73b3ca874b77e",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/posters2_2_L.tga"
+      ]
+    },
+    {
+      "image_id": "d01c14df092ab6d4d40a16b6872a132a3ba4b10ace01ff7c62eea3ad34cedc68",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/DCLgrafittiDA.tga"
+      ]
+    },
+    {
+      "image_id": "d10339b2f584dd43212b4721b49bd5fcee4e09bfbc8c6099257d67715fc889de",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpPlayerCreate_08.tga"
+      ]
+    },
+    {
+      "image_id": "d1119460b08ceb23e9314bb4c1650d4c901f585e1e820114226c931b3d6b9602",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcgLoadSavedButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "d176b85837fb12bc3a51ad4c713721ecd6c68fc4606bb70d9b6fb118f5859621",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emmpReviveOver.tga"
+      ]
+    },
+    {
+      "image_id": "d1aba526fc0821473dbd93594c08f17ef33f64a27cee73d753107bb84e2f54ec",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapNYCmidtown07.tga"
+      ]
+    },
+    {
+      "image_id": "d2deb961cd817a3f5492c8c8cc5b5915e4be949426e2f8d445af7739ee4232b3",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/MOTDcancelButtonOver.tga",
+        "Local_Eng.nob/ui/Materials/mpcgCancelButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "d2fe74dbf3db6a6eaa8c1f8aadabd77f1b743bb6af5ae3845c1e3fab1ec11f89",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/TitleScreen02.tga"
+      ]
+    },
+    {
+      "image_id": "d3604ed34756ee57234e6a66499049fedcb6106c224c6beffc6f2cbd2c395f3d",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emmpReviveGrey.tga"
+      ]
+    },
+    {
+      "image_id": "d3bbddacbf911a446182f42a6743041d5bb744254c520b4b78b0d184693d9a06",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmQuitDep.tga"
+      ]
+    },
+    {
+      "image_id": "d3c7ce16ecc0914c9bb915dbe3ab2a3d7e91e65a2236a932f0101071c96a2a81",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapLondonEast03.tga"
+      ]
+    },
+    {
+      "image_id": "d3fdba8341b709fe3f1e03807e397e7d42573df3d43e11c797920fab81f3dc23",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplayAdv06.tga"
+      ]
+    },
+    {
+      "image_id": "d437c8fe3e17f5db04b991eb8d040fa328c981f6093e43f1a7dc4a84fe14ea66",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spSaveSavebuttonDep.tga"
+      ]
+    },
+    {
+      "image_id": "d491629cf7970bbbe6dd06354bd32ceb2ab1fa4de9f7c5e91f50cd54cc2b60a7",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatLogOutButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "d4d969434cbdc42bd4e744072f1e30332a158606af704aa178ac6246474538de",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonLogin07.tga"
+      ]
+    },
+    {
+      "image_id": "d51d1c77a828772aab86915067de05b1c9917a56a9053a7c228f135e529ba670",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/charFaithLabel.tga"
+      ]
+    },
+    {
+      "image_id": "d6a0d454393ae58590e82a8f7e5e90b97790670cc0459fac80778db3b2533d00",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmQuit.tga"
+      ]
+    },
+    {
+      "image_id": "d6dd3ecc44504ddb658a94d88cf06c89de883daafe95ddccb00c8e08c8a331a4",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/DCLgrafittiAN.tga"
+      ]
+    },
+    {
+      "image_id": "d787709b9f7569a1d8f2a8c19d06978268145717cd721f269f25ca21b33d3417",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatLeaveGameButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "d7d6f24f9b5cac36ffd419ce5cd13a52736dd5acfd2e92a997ceb23deabc7fce",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcrCreateRoomButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "daeb23366130eacf55fd75008d4bcdd05d9e818ecdab99e956a6cd6d2cf943b4",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WonVampireLinkOver.tga"
+      ]
+    },
+    {
+      "image_id": "dbf004023594d18af5301713482896ee04e6a2098f4907e770cc572058ddade6",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/CharacterPane03.tga"
+      ]
+    },
+    {
+      "image_id": "dc27586bd29e2660041a7e4b4630a4bb69411b0bbf343628720a5135a824c284",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spLoadLoadButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "dc3e00041427a0f6b1f65e1bb5735446b0e8b62f961bc2cc9b21134a905c1530",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpCreateRoom01.tga"
+      ]
+    },
+    {
+      "image_id": "dc553340a8bb45751af69d22e229218bd8d3f3e4bad90de7ac3a8105e66ff7df",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spLoadCancelButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "dd5fc67e4cd5c1be195cbf4ed638c3aa090ceb1929eef7b44ac987b5fd70ca90",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Resource.nob/3d/Materials/trafficSignal1.tga"
+      ]
+    },
+    {
+      "image_id": "ded25de066032c6f81eeef962a18f5f0fa75484c8ef937ab0232fbc2b86a315c",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/GHsign2_1_NY.tga"
+      ]
+    },
+    {
+      "image_id": "e02470825946c3f21ce9eb9c98e47608de7855b586409696300fa65aa9959d84",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/cashRegister.tga"
+      ]
+    },
+    {
+      "image_id": "e044666393bf8751b2ccfc1b3609197e6a80b849743de6e80049be3a6e618bde",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mapNYCdocks07.tga"
+      ]
+    },
+    {
+      "image_id": "e09fcd66a1de711ee4998c031f2120063f3ca42412ab0d5795f3a3450c14d34b",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/posters1_2_L.tga"
+      ]
+    },
+    {
+      "image_id": "e1abab571a07c0d701a4f390d3f851c1f071e879dc82113c994c4a5d978f717c",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpPlayerCreate_05.tga"
+      ]
+    },
+    {
+      "image_id": "e219d265173e8f57b0d52f3b8679236a6791763b2a700bd56ed125139beb32f1",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/SLantiqueMap_L.tga"
+      ]
+    },
+    {
+      "image_id": "e317cc98e5ff85fc9e1afdc951b069ec2b972dfe4101e2b66b684076d43cf2d5",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisAdvCancelButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "e31f8d1b8b13fa3063dffda5379da3232c122afa638ae294f19d6f48f6f2cc55",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/DCLgrafittiGC.tga"
+      ]
+    },
+    {
+      "image_id": "e3ddb598214313d6c669fe6ce06fa60521be37e9a86cdd273fa2fa38a710d729",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsSound02.tga"
+      ]
+    },
+    {
+      "image_id": "e47f34460099194af19982b74bd3daa3563bfcb58cb723b5fa08c8f821a5f967",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatGameChatTitle.tga"
+      ]
+    },
+    {
+      "image_id": "e56c5f64a99d64a4451465fd52b872d06a4380070727f8178d07237f2de35544",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/Vienna/CTclock1_v.tga"
+      ]
+    },
+    {
+      "image_id": "e59005fa56435863b53d98a765a3f7c46bcf72a12b1ee2218d9557665eb63293",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/ADVokDep.tga"
+      ]
+    },
+    {
+      "image_id": "e67c4564513edf1d813b3915cbef31b5883f0aca21f9053611fd1cabb6ddb6a8",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/GHNeonOpen2_NY.tga"
+      ]
+    },
+    {
+      "image_id": "e73dd7c0ff2e5319b89e41fe1d920b80f072d594f5cbde4c41882868691317b1",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcgCancelButton.tga"
+      ]
+    },
+    {
+      "image_id": "e78da9011a7d484a2b591732fdc552ae91d3d7e5bc171095bf1b95fb1df05460",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Resource.nob/3d/Materials/stop.tga"
+      ]
+    },
+    {
+      "image_id": "e80ebe6ba18615a3faa3bae37bdd835d295cee8cda15927e34b3d68c9937a8c8",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/London/undergroundSign2_L.tga"
+      ]
+    },
+    {
+      "image_id": "e8b068122b5826be2f6e1d850017f08e543619ab76632fd32b618a0a7204d64b",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonLogin01.tga"
+      ]
+    },
+    {
+      "image_id": "e996cbfcec569e69ab238e66db1c3d734137cb8aab89908484ddc8fa2fc0e2d4",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsDoneButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "e9c2abec0eec855dfea0dc48b83f5695b2676459ffed72e72ef25f970e41d0b4",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/London/CSwallSign.tga"
+      ]
+    },
+    {
+      "image_id": "e9d74644026f851338b57d333668762a1d6002008cedd68bea1fd6fbf761535c",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/PWMBokButton.tga"
+      ]
+    },
+    {
+      "image_id": "e9e21bc4e37753d4f16311c1c6a647512d12e093e66a6823037cb5231b9842f3",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/NYPDcoat.tga"
+      ]
+    },
+    {
+      "image_id": "e9ed120251812cf10d7c09b5a97e58de383b03481310dc20c8b511b31edaf7f3",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/GHNeonCredit1_NY.tga"
+      ]
+    },
+    {
+      "image_id": "e9fee8d8052e94bef46d16a48181a585f42152bf9fe610bd4b62f6e5ca6c0055",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Resource.nob/3d/Materials/DNBlock.tga"
+      ]
+    },
+    {
+      "image_id": "ea20e7343bbdd3da19ced8a31f119a9cd6c425440b3b5517cd5cfa398e67293b",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsDisplayButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "ea79180990f57e6df529aece39bcc128fa443cc8bac2367ed2c643d9ba26a7d6",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonLogin08.tga"
+      ]
+    },
+    {
+      "image_id": "eaab13a314eef3bf2ab316fc5f5645545f0d834d4bdada788d61b4b501af3d53",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsGameplayButton.tga"
+      ]
+    },
+    {
+      "image_id": "eb080686d941a4929abd18cce487aca0e5090e563319bb5c6e0e26987ee721bd",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpSelectMainMenuOver.tga"
+      ]
+    },
+    {
+      "image_id": "eb9319c3e6bacd33d206887a51850ce6d8e86ecf0c23c204c685ab7809752b06",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spSave02.tga"
+      ]
+    },
+    {
+      "image_id": "ebe994227319670a948a079c49ee412f6d530f19a74501456c30f30437c056b0",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplayAdv07.tga"
+      ]
+    },
+    {
+      "image_id": "eca90f63f29a75ac0d9ced36ae08df672afb5d341062e72d5589387276c3b2a6",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/PWMBcancelButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "ee9ee99a25b25df710c5a1813c77d0479719ca4b4adeb7516b8d6d277e6bcaa0",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcrCreateRoomTitle.tga"
+      ]
+    },
+    {
+      "image_id": "eec9848ae7f70983c972b461787d43dddcd12ec2262cb98da7de2c6b9ee2b969",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WLnewAccountButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "ef7352f23c6a10082be474d9b77440bd48791fd1f118337a5b228a074996bc7a",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsControlsButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "ef767f66669133970fd90b154a138b504fb51cf54482d5fab8f4a3be6300bdae",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Resource.nob/3d/Materials/riotShield.tga"
+      ]
+    },
+    {
+      "image_id": "f08eb721bef6652ac4641e7a2e6df40a180d6e39f2eadffcb8b588e1d7eca9f0",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OKbuttonDep.tga"
+      ]
+    },
+    {
+      "image_id": "f0b6bd004c238f199751f2207ee04e2831e0d29afd482e3e38c027f7c3fd0c44",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/London/SLcrate1_1_L.tga"
+      ]
+    },
+    {
+      "image_id": "f111f70914dea9cccdd895fab2dde908f973b3f024f1186f09cc45e94ce53157",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcrRoomNameTitle.tga"
+      ]
+    },
+    {
+      "image_id": "f115d29df2559083006c5a0acb1d4d50e37bd2a4542e7bd46cf40d27b5ea3ce5",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/WLchangePWButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "f140ea0e890e956fe0363ab322639a03250ce479fa1abdde803248d9048b8cd6",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/OpsDisplayAdv01.tga"
+      ]
+    },
+    {
+      "image_id": "f2c32166b29adaddf02889174fdccb45d3bf2539dda49fa8e7a82a025bf94dee",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonMOTD05.tga"
+      ]
+    },
+    {
+      "image_id": "f385d6fa14d613057089bff00db6a3cbf7620800340aec376f5bc988b0136541",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emmpReviveDep.tga"
+      ]
+    },
+    {
+      "image_id": "f3d6c4e5a924270f3951dedf31f9b536854b0c3c12a5e7be41aedefbd8536adf",
+      "status": "original_unresolved_region",
+      "sources": [
+        "LMaterials.nob/materials/General/BooksMD.tga"
+      ]
+    },
+    {
+      "image_id": "f3ed01c62d205975402bc3c5dc081b8475543e51c5dfaac1f28b9069bfcf7dd0",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/computerBox1.tga"
+      ]
+    },
+    {
+      "image_id": "f55b5ebf86abee97cd71d2832e189babef0de05d9be76f4cae3cdd7eadb24e32",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatCreateRoomButtonDep.tga"
+      ]
+    },
+    {
+      "image_id": "f5a69c8a0e31cf0647ffdd6cda81ac11aef4d8ec3f72dcbf5ef84bba7c2e4c8c",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/spLoad08.tga"
+      ]
+    },
+    {
+      "image_id": "f8b0541f04b7cc847ad279332f954c048c38298442b6f253b373f8903af5d31e",
+      "status": "original_cleanup_residual_or_art_damage",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/optionsGameplayButtonOver.tga"
+      ]
+    },
+    {
+      "image_id": "f8f6ddbf790bf67c13437a66f8236df0921286bae519fcf045cdbd3bd9d73000",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpChatCreateGameButton.tga"
+      ]
+    },
+    {
+      "image_id": "fd621042902714e2a9f23911b87b7875821649daa6609605e1cf15da9a2dd666",
+      "status": "original_unresolved_region",
+      "sources": [
+        "Resource.nob/3d/Materials/ammoCan1.tga"
+      ]
+    },
+    {
+      "image_id": "fd6372d08aa4c34032cfee0a60ed30ecdfab1dce4f627a171ca7aa7dbd119240",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/wonMOTD01.tga"
+      ]
+    },
+    {
+      "image_id": "fd92f8a1ac9ca0c3c462d3659acfa88e08e447c1602845ca1e053a81391942f5",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/GHsign1_1_NY.tga"
+      ]
+    },
+    {
+      "image_id": "fe015eca20fa17ebab0d7ddb64c43ac16fe45132b62df257e256968de1905a43",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mmOptionsOver.tga"
+      ]
+    },
+    {
+      "image_id": "fe581e61501082ae02a670c80b308adde412dc41c2e2e5eba26474ff052845e8",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/mpcrExistingRoomsTitle.tga"
+      ]
+    },
+    {
+      "image_id": "fea80c53d9370340dd11698404255ffc7949ea50763e1c9ccb6578a25586b8d8",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emmpOptionsDep.tga"
+      ]
+    },
+    {
+      "image_id": "ff056dd7a8c278480cac946c85aad8bfef6de9b93d46fdf4e88903152f522e93",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "Local_Eng.nob/ui/Materials/emQuitDep.tga"
+      ]
+    },
+    {
+      "image_id": "ff9ba65801d664d87a6448d292ccc5f538e0bc7b4f22d5a4c864bc118b503545",
+      "status": "original_outside_verified_subset",
+      "sources": [
+        "LMaterials.nob/materials/New_York/UTsignClosed_NY.tga"
+      ]
+    }
+  ]
+}

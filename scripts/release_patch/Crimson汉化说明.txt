@@ -1,0 +1,13 @@
+《吸血鬼：避世血族－救赎》Crimson Edition 汉化整合测试版
+
+适用于 Steam 游戏与 VTMR Crimson Edition 1.0 的标准 16:9 配置。
+退出游戏，把整合 ZIP 完整解压到 Vampire.exe 所在目录，运行「安装Crimson汉化.cmd」。
+初次安装时按提示选择从 Nexus 下载的原始 Crimson ZIP。程序会安装 Crimson、汉化与高 DPI 修正。已经安装标准版 Crimson 的玩家可直接运行脚本。
+安装成功后从 Steam 启动。以前设置过 -window 的玩家请先移除该参数。
+卸载时退出游戏并运行「卸载Crimson汉化.cmd」，恢复安装前的文件和兼容设置。
+
+复用原汉化的正文、界面和图片译文，并合入 Crimson 新增和修改的界面提示。中文字体适配器接管字形绘制。
+Crimson 提供的高清码头牌保留英文。Age of Redemption 和 21:9 扩展配置尚未验证。
+
+原始 Crimson Edition 下载地址
+https://www.nexusmods.com/vampireredemption/mods/12

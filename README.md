@@ -10,6 +10,10 @@ Steam商店: https://store.steampowered.com/app/559680/
 或者网盘链接: Vampire-The Masquerade–Redemption  https://pan.baidu.com/s/5jX0pJapT1o7V1xWRs9fHxA  
 请订阅github地址或者网盘地址，以便在补丁更新时获得通知
 
+## 汉化工程
+
+仓库包含汉化源码、译文和构建文件，详见 [工程说明](工程说明.md)。
+
 ## 游戏介绍
 
 这是一款哥特风队伍角色扮演游戏。你将带领克里斯托夫与同伴，在探索和战斗中从中世纪的布拉格与维也纳一路追踪到现代的伦敦与纽约。
