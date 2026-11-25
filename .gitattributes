@@ -1,8 +1,0 @@
-*_text.csv -text
-*_text_translated.csv -text
-/TranslateFiles/glossary/r3/glossary_original.json -text
-/TranslateFiles/glossary/r3/freeze_8364f5ef/**/*.json -text
-/TranslateFiles/glossary/revision_4_5863e5b4/**/*.json -text
-/TranslateFiles/glossary/revision_4_5863e5b4/*.json -text
-*_images_text.csv -text
-*_images_text.mapping.json -text
