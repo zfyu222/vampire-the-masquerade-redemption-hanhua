@@ -1,0 +1,77 @@
+{
+  "subtitle": {"font": "defaultFont15", "height": 198},
+  "new_terms": {
+    "prague": "布拉格",
+    "(old town)": "旧城区",
+    "(north quarter)": "北区",
+    "vienna": "维也纳",
+    "temesvar": "特梅什瓦尔",
+    "london": "伦敦",
+    "(east)": "东区",
+    "(west)": "西区",
+    "new york": "纽约",
+    "(docks)": "码头区",
+    "(midtown)": "中城",
+    "river thames": "泰晤士河",
+    "westend container terminal": "西区集装箱码头"
+  },
+  "buttons": {
+    "escapeMenu": ["resume","options","quit","load","save"],
+    "escapeMenuMP": ["resume","options","quit","save","revive"]
+  },
+  "labels": {
+
+  },
+  "map_labels": {
+    "mapPragueOT": [
+      ["prague",275,20,392,46],
+      ["(old town)",273,47,394,74]
+    ],
+    "mapPragueNQ": [
+      ["prague",52,20,167,44],
+      ["(north quarter)",22,49,194,80]
+    ],
+    "mapVienna": [
+      ["vienna",469,396,575,429]
+    ],
+    "mapTemesvar": [
+      ["temesvar",49,405,168,432]
+    ],
+    "mapLondonEast": [
+      ["london",468,24,596,59],
+      ["(east)",488,67,564,94]
+    ],
+    "mapLondonWest": [
+      ["london",30,24,159,59],
+      ["(west)",51,68,133,96]
+    ],
+    "mapNYCdocks": [
+      ["new york",22,37,181,75],
+      ["(docks)",53,73,145,106]
+    ],
+    "mapNYCmidtown": [
+      ["new york",23,37,183,75],
+      ["(midtown)",37,68,170,103]
+    ]
+  },
+  "map_ink_labels": {
+    "mapLondonEast": [
+      ["river thames",245,370,356,404,7],
+      ["river thames",560,371,627,408,26]
+    ],
+    "mapLondonWest": [
+      ["river thames",560,371,627,408,26]
+    ],
+    "mapNYCdocks": [
+      ["westend container terminal",524,57,628,81,0],
+      ["hudson river",383,387,454,447,39],
+      ["east river",226,231,259,258,0],
+      ["hudson river",2,104,18,184,-90]
+    ],
+    "mapNYCmidtown": [
+      ["east river",226,231,259,258,0],
+      ["hudson river",2,104,18,184,-90]
+    ]
+  },
+  "standalone": []
+}

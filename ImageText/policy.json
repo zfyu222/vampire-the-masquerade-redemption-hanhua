@@ -1,0 +1,16 @@
+{
+  "script": "latin",
+  "negative_samples": 20,
+  "weak_samples": 10,
+  "ordinary_samples": 10,
+  "qwen_batch": 100,
+  "seed": 42,
+  "images": {
+    "Local_Eng.nob/ui/Materials/EscapeMenu01.png": {"known_text": true, "risks": ["art"]},
+    "Local_Eng.nob/ui/Materials/MainMenu01.png": {"known_text": true, "risks": ["art"]},
+    "Local_Eng.nob/ui/Materials/MainMenu02.png": {"known_text": true, "risks": ["art"]},
+    "Local_Eng.nob/ui/Icons/GiovanniAccessCodesIcon.png": {"known_text": true, "risks": ["tiny"]},
+    "LMaterials.nob/materials/London/CSwallSign.png": {"known_text": true, "risks": ["art"]},
+    "LMaterials.nob/materials/London/exit_sign_L.png": {"known_text": true}
+  }
+}
